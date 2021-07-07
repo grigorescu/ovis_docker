@@ -1,0 +1,6 @@
+[submodule "sos"]
+	path = sos
+	url = https://github.com/ovis-hpc/sos.git
+[submodule "sosdb-ui"]
+	path = sosdb-ui
+	url = https://github.com/nick-enoent/sosdb-ui.git
